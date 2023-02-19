@@ -4,4 +4,5 @@
 自己写的一些中二小说[跳转](https://github.com/HarayamaRese/Resource_sharing/tree/main/Wrote_it_yourself)<br>
 收集到的网络小说[跳转](https://github.com/HarayamaRese/Resource_sharing/tree/main/gather)<br>
 一些文献、杂志啥的网站[跳转](https://github.com/HarayamaRese/Resource_sharing/tree/main/literature)<br>
-娱乐小游戏[跳转](https://github.com/HarayamaRese/Resource_sharing/tree/main/MiniGames)
+娱乐小游戏[跳转](https://github.com/HarayamaRese/Resource_sharing/tree/main/MiniGames)<br>
+已出版书籍电子化[跳转](https://github.com/HarayamaRese/Resource_sharing/tree/main/Digitization_of_physical_books)
