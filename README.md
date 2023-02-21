@@ -1,3 +1,4 @@
+#Resource_sharing
 可以打个Star支持一下，有问题打Lssues，虽然不怎么看就是了<br>
 游戏磁力链接[跳转](https://github.com/HarayamaRese/Resource_sharing/tree/main/Magnetic_link)<br>
 自己写的中二小说[跳转](https://github.com/HarayamaRese/Resource_sharing/tree/main/Wrote_it_yourself)<br>
